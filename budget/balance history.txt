@@ -1,0 +1,48 @@
+tinkoff
+Tue Sep  5 15:07:13 2023
+100
+local category
+comment
+adding
+tinkoff
+Tue Sep  5 15:07:13 2023
+100
+local category
+comment
+taking off
+tinkoff
+Tue Sep  5 15:07:13 2023
+100
+local category
+comment
+transfer
+sber
+Tue Sep  5 15:07:13 2023
+100
+local category
+comment
+transfer
+tinkoff
+Tue Sep  5 15:07:30 2023
+100
+local category
+comment
+adding
+tinkoff
+Tue Sep  5 15:07:30 2023
+100
+local category
+comment
+taking off
+tinkoff
+Tue Sep  5 15:07:30 2023
+100
+local category
+comment
+transfer
+sber
+Tue Sep  5 15:07:30 2023
+100
+local category
+comment
+transfer
